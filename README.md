@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rizaldi Ilham
 - 👀 I’m interested to built something simple but matter
-- 🌱 I’m currently learning nodejs & react js
+- 🌱 I’m currently learning golang
 - 🌱 I’m currently using .NET and Laravel
 - 📫 How to reach me; mail: rizalazier@gmail.com
